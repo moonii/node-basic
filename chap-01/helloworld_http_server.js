@@ -1,6 +1,3 @@
-/**
- * Created by user on 2016-09-08.
- */
 
 var http = require('http');
 

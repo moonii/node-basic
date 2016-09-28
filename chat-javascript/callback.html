@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function hello( message, callback ) {
+            message = message + ". 자바 스크립트 입니다.";
+            callback();
+            return message;
+        }
+
+        var callbackFunction = function() {
+            console.log( "콜백 함수가 실행되었습니다." );
+        };
+
+        var helloMessage = hello( "반갑습니다", callbackFunction );
+        console.log( helloMessage );
+    </script>
+
+</head>
+<body>
+
+</body>
+</html>
