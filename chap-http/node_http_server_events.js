@@ -1,6 +1,3 @@
-/**
- * Created by 김순곤 on 2016-09-28.
- */
 
 // http module을 불러옴
 var server = require("http").createServer();

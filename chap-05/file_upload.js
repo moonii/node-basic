@@ -1,6 +1,4 @@
-/**
- * Created by user on 2016-09-12.
- */
+
 var http = require('http');
 var fs = require('fs');
 

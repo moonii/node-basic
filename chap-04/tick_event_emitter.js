@@ -1,6 +1,4 @@
-/**
- * Created by user on 2016-09-12.
- */
+
 var EventEmitter = require('events').EventEmitter;
 
 var emitter = new EventEmitter();
