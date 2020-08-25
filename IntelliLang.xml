@@ -1,5 +1,5 @@
 <application>
-  <component name="LanguageInjectionConfiguration">
+  <component name="LanguageInjectionConfiguration sunny">
     <option name="INSTRUMENTATION" value="ASSERT" />
     <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
